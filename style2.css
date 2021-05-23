@@ -1,0 +1,15 @@
+body {
+    background-color: cornflowerblue;
+}
+#icon {
+    height: 60px;
+}
+#output {
+    font-family: 'Karantina', cursive;
+    font-size: 22px;
+    cursor: pointer;
+}
+#submit:hover{
+    height: 37px;
+    box-shadow: 2px 2px black;
+}
